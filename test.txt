@@ -1,0 +1,67 @@
+Привет :) Удачи на тесте ! Напиши свое имя в правом углу (5 баллов)
+Umeko Shota Chyngyz
+
+Перечислите минимум 30 тэгов (10 баллов)
+
+<header></header>
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+<div></div>
+<table></table>
+<u></u>
+<li></li>
+<link rel="stylesheet" href="">
+<button></button>
+<a href=""></a>
+<p></p>
+<span></span>
+<body></body>
+<head></head>
+<footer></footer>
+<meta>
+<html></html>
+<input type="text">
+<img src="" alt="">
+<del></del>
+<hr>
+<tr></tr>
+<th></th>
+<i></i>
+<style></style>
+<article></article>
+<section></section>
+<br>
+
+Что такое селектор ? (10 баллов)
+Это способ обращения непсоредственно к тегам html для задания им определенный стилей
+
+Опишите все известные Вам свойства display: flex; (10 баллов)
+
+justify-content:centre, space-between, space-arround, start, end;
+align-atimes:centre, flex-end, flex-start;
+flex-direction: column, raw, column-reverse, raw-reverse
+
+Какие значения принимает свойство position ? (5 баллов)
+position: fixed, static, relative, absolute,inherit
+Какие единицы измерения вы знаете ? (5 баллов)
+px, em - удваивает на число которые задано ему, а на какое берет у родителя, rem - берет данные непсоредственно от html
+С помощью какого свойства можно поменять направление flex элементов ? (10 баллов)
+flex-direction: column, raw, column-reverse, raw-reverse
+Каким способами можно добавить картинку на страницу ? (5 баллов)
+ тегом <img src="" alt="">, background-image
+За что отвечает свойство display у блочных элементов ? (10 баллов)
+отвечает за - отоброжение контейнеров их расположение и вид
+Чем отличается margin от padding ? (5 баллов)
+margin - двигает сам контейнер, padding - двигает то что находится внутри контейнера
+ Относительно чего позиционируются блоки со значением position: fixed (10 баллов)
+left right top bottom
+Сколько будет два плюс два умножить на два ? (5 баллов)
+6
+С помощью какого свойства можно задать количество и размер строк в grid; ? (10 баллов)
+grid-template-rows:
+ С помощью каких свойств можно задать цвет, шрифт, размер шрифта и позиционирование для текста ? (10 баллов)
+font-size, font-family, color, text-aling.
